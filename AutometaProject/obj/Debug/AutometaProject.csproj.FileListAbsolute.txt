@@ -1,0 +1,6 @@
+E:\personalData\StudyMaterial\AutometaProject\AutometaProject\bin\Debug\AutometaProject.exe.config
+E:\personalData\StudyMaterial\AutometaProject\AutometaProject\obj\Debug\AutometaProject.csprojResolveAssemblyReference.cache
+E:\personalData\StudyMaterial\AutometaProject\AutometaProject\bin\Debug\AutometaProject.exe
+E:\personalData\StudyMaterial\AutometaProject\AutometaProject\bin\Debug\AutometaProject.pdb
+E:\personalData\StudyMaterial\AutometaProject\AutometaProject\obj\Debug\AutometaProject.exe
+E:\personalData\StudyMaterial\AutometaProject\AutometaProject\obj\Debug\AutometaProject.pdb
